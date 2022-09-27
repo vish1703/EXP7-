@@ -1,0 +1,8 @@
+# Default primary key field type
+# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
+=setting.py=121,122 lines
+123 seeting.py=DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+<img src="/static/img/blogs.jpg">=8th 
+http://127.0.0.1:8000/static/img/blogs.jpg
+extra in set.py122=MEDIA_URL='/media/'
+MEDIA_ROOT=os.path.join(BASE_DIR,'media')
